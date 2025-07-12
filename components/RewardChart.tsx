@@ -4,7 +4,7 @@
 import { motion } from 'framer-motion';
 
 export default function RewardPoints() {
-  const points = 3200;
+  const points = 3500;
   const goal = 5000;
   const percentage = (points / goal) * 100;
 
@@ -18,8 +18,8 @@ export default function RewardPoints() {
       </p>
       <div className="w-full h-4 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
         <motion.div
-          className="h-full bg-gradient-to-r from-pink-500 to-yellow-400 rounded-full"
-          initial={{ width: 0 }}
+          className="h-full bg-gradient-to-r from-red-500 to-yellow-400 rounded-full"
+          initial={{ width: 5 }}
           animate={{ width: `${percentage}%` }}
           transition={{ duration: 1 }}
         />

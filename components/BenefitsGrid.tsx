@@ -34,7 +34,7 @@ export default function BenefitsGrid() {
 
   // Simulate fake delay
   useEffect(() => {
-    const timeout = setTimeout(() => setLoading(false), 1500);
+    const timeout = setTimeout(() => setLoading(false), 400);
     return () => clearTimeout(timeout);
   }, []);
 
