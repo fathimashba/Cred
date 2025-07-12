@@ -1,4 +1,4 @@
-// File: D:\Downloads\cred-garage-dashboard-complete\app\benefit\[id]\page.tsx
+// File: D:\Downloads\Cred\Cred\app\benefit\[id]\page.tsx
 import * as entry from '../../../../../app/benefit/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

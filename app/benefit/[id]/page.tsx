@@ -45,7 +45,7 @@ export default function BenefitDetailPage() {
           {benefit.expiry}
         </p>
 
-        <div className="bg-gradient-to-r from-pink-400 to-yellow-400 text-black font-mono text-xl text-center py-3 px-4 rounded-lg tracking-widest shadow-inner">
+        <div className="bg-gradient-to-r from-yellow-400 to-yellow-400 text-black font-mono text-xl text-center py-3 px-4 rounded-lg tracking-widest shadow-inner">
           CODE: {benefit.code}
         </div>
 

@@ -3,7 +3,7 @@ import { ReactNode } from 'react';
 
 export const metadata = {
   title: 'CRED Garage Dashboard',
-  description: 'Frontend Task – Fathia Ashba',
+  description: 'Frontend Task – Fathima Ashba',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -1,4 +1,4 @@
-// File: D:\Downloads\cred-garage-dashboard-complete\app\layout.tsx
+// File: D:\Downloads\Cred\Cred\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

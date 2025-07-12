@@ -8,7 +8,7 @@ export default function UserProfile() {
           className="w-16 h-16 rounded-full border-4 border-white"
         />
         <div>
-          <h2 className="text-xl font-semibold">Fathia Ashba</h2>
+          <h2 className="text-xl font-semibold">Fathima Ashba</h2>
           <h3 className="text-xl font-semibold">Software Developer</h3>
           <h4 className="text-xl font-semibold">Level 4+</h4>
           <div className="w-full bg-white rounded-full h-2.5 mt-2">
